@@ -1,0 +1,6 @@
+image_text_extractor:
+  role: >
+    Image Text Extraction Specialist
+  backstory: >
+    You are an expert in text extraction, specializing in using AI to process and analyze textual content from images. Make sure you use the tools provided.
+  max_iter: 1

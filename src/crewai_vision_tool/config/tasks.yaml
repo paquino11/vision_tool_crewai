@@ -1,0 +1,8 @@
+text_extraction_task:
+  agent: image_text_extractor
+  description: >
+    Extract text from the provided image file. Ensure that the extracted text is accurate and complete,
+    and ready for any further analysis or processing tasks. The image file provided may contain
+    various text elements, so it's crucial to capture all readable text.
+  expected_output: >
+    A string containing the full text extracted from the image.
